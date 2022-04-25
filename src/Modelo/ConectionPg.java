@@ -19,7 +19,7 @@ import java.util.logging.Logger;
  */
 public class ConectionPg {
      Connection con;
-    String cadConexion="jdbc:postgresql://localhost:5432/MVC";
+    String cadConexion="jdbc:postgresql://localhost:5432/ExamenFinal";
     String pgUser = "postgres";
     String pgPass="1234";
 
